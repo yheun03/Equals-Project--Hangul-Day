@@ -1,0 +1,11 @@
+*{padding: 0;  margin: 0;  box-sizing: border-box;}
+h1{
+    display: inline-block;
+    font: normal normal normal 200px/253px JS Arirang;
+}
+#main_contents_wrap{
+    display: flex;
+}
+span{
+    color: #FF613A;
+}
