@@ -42,6 +42,7 @@ span{color: #FF613A;}
     border-radius: 50%;
 }
 #nav_bar{
-    width: 60px;  height: 100%;
+    width: 60px;
+    min-height: 937px;
     background-color: #373737;
 }
